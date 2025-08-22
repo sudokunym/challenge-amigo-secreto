@@ -1,5 +1,5 @@
-![banner](assets\Colorful Photo Rainbow Facebook Cover.png)
-<h1 align="center"> # Amigo secreto 🫂 </h1>
+![assets\Colorful Photo Rainbow Facebook Cover.png](https://github.com/sudokunym/challenge-amigo-secreto/blob/main/assets/Colorful%20Photo%20Rainbow%20Facebook%20Cover.png)
+<h1 align="center"> Amigo secreto 🫂 </h1>
 
 ## El Desafío
 En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
